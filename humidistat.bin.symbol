@@ -1,0 +1,43 @@
+< THE SYMBOL TABLE >  humidistat.bin  --  emu8086 assembler version: 4.08 
+===================================================================================================
+Name                     	Offset    	Size      	Type      	Segment   
+===================================================================================================
+TEMP_REF                 	00000     	1         	VAR       	(NOSEG)   
+ADC_OUT                  	00065     	1         	VAR       	(NOSEG)   
+TEMP_T                   	000CA     	1         	VAR       	(NOSEG)   
+TEMP_H                   	000CB     	1         	VAR       	(NOSEG)   
+CMP_T                    	000CC     	1         	VAR       	(NOSEG)   
+NEG_FLAG                 	000CD     	1         	VAR       	(NOSEG)   
+ORIGIN                   	000CE     	1         	VAR       	(NOSEG)   
+STRT                     	004D2     	-1        	LABEL     	(NOSEG)   
+START                    	00534     	-1        	LABEL     	(NOSEG)   
+SEQ                      	00540     	-1        	LABEL     	(NOSEG)   
+INC_HUM                  	00561     	-1        	LABEL     	(NOSEG)   
+DEC_HUM                  	00566     	-1        	LABEL     	(NOSEG)   
+REPEAT                   	0056B     	-1        	LABEL     	(NOSEG)   
+DLY_MINOR                	00570     	-1        	NEAR      	(NOSEG)   
+AA                       	00572     	-1        	LABEL     	(NOSEG)   
+DLY_MAJOR                	00577     	-1        	NEAR      	(NOSEG)   
+BB                       	0057A     	-1        	LABEL     	(NOSEG)   
+DLY_STD                  	0057E     	-1        	NEAR      	(NOSEG)   
+ST                       	00581     	-1        	LABEL     	(NOSEG)   
+GETTEMP                  	00585     	-1        	NEAR      	(NOSEG)   
+CC                       	00599     	-1        	LABEL     	(NOSEG)   
+POS                      	005C5     	-1        	LABEL     	(NOSEG)   
+CON                      	005D1     	-1        	LABEL     	(NOSEG)   
+GETHMD                   	005D5     	-1        	NEAR      	(NOSEG)   
+DD                       	005E9     	-1        	LABEL     	(NOSEG)   
+INC_HMD                  	00600     	-1        	NEAR      	(NOSEG)   
+DEC_HMD                  	00609     	-1        	NEAR      	(NOSEG)   
+IDLE                     	00612     	-1        	NEAR      	(NOSEG)   
+CLEAR_LCD                	0061B     	-1        	NEAR      	(NOSEG)   
+HELLO_WORLD              	00635     	-1        	NEAR      	(NOSEG)   
+DISPLAY_LCD              	00732     	-1        	NEAR      	(NOSEG)   
+HH                       	00825     	-1        	LABEL     	(NOSEG)   
+NN                       	00837     	-1        	LABEL     	(NOSEG)   
+CONVBCD                  	009C4     	-1        	NEAR      	(NOSEG)   
+BACK1                    	009C6     	-1        	LABEL     	(NOSEG)   
+===================================================================================================
+[ 25-04-2019  --  12:26:49 PM ] 
+< END >
+ 
